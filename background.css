@@ -1,0 +1,73 @@
+body {
+
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    margin: 0px;
+    justify-content: center;
+}
+
+.Tittle {
+
+    text-align: center;
+    height: 100px;
+
+}
+
+.Tittle section {
+
+    background: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+
+}
+
+
+
+.Video {
+
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 30px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    display: flex;
+    margin-top: 200px;
+    margin-bottom: 100px;
+    padding-right: 200px;
+    padding-left: 200px;
+
+}
+
+.ZeroText {
+
+    height: 200px;
+    opacity: 1;
+    text-align: center;
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 80px;
+    font-style: italic;
+    color: yellow;
+
+}
+
+.Personagens {
+
+    text-align: center;
+
+}
+
+.Personagens img {
+
+    opacity: 0.5;
+    height: 300px;
+    overflow-x: auto;
+    align-content: center;
+
+}
+
+.Personagens img:hover {
+
+    border: 5px solid yellow;
+    opacity: 1;
+
+}
